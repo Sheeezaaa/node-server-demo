@@ -1,4 +1,3 @@
-
 # Node.js Server Setup
  Introduction
 
@@ -11,7 +10,7 @@ Node.js and npm were checked using the following commands:
 ```bash
 node -v
 npm -v
-​```
+```
 ## Step 2: Create Project Folder
 A project folder named node-server-demo was created using:
 ```bash
