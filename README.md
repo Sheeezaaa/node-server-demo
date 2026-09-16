@@ -17,7 +17,7 @@ A project folder named node-server-demo was created using:
 mkdir node-server-demo
 cd node-server-demo
 
-Step 3: Initialize the Project
+### Step 3: Initialize the Project
 The Node.js project was initialized using:
 npm init -y
 This created the package.json file.
@@ -53,6 +53,18 @@ The server was tested by opening:
 http://localhost:3000
 The browser successfully displayed:
 Hello Javascript
+
+
+<img width="1122" height="850" alt="adv1" src="https://github.com/user-attachments/assets/665b2eda-4a00-4cd6-b755-e212f6a0f891" />
+<img width="545" height="209" alt="ad5" src="https://github.com/user-attachments/assets/08799387-faeb-4a07-b1b9-8479457f89ae" />
+
+<img width="599" height="303" alt="image" src="https://github.com/user-attachments/assets/e7afaaf9-0fe0-4198-8eb2-baafd1ad5bb5" />
+<img width="738" height="516" alt="ad 3" src="https://github.com/user-attachments/assets/db12d493-76fe-4a8f-8163-c52443da4215" />
+
+
+
+
+
 
 
 
